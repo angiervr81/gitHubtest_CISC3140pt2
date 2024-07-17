@@ -1,2 +1,2 @@
 # gitHubtest_CISC3140pt2
-Practices using github and running test 
+Practices using github and running test with old programs
